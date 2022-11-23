@@ -1,4 +1,4 @@
-<img width="auto" src="//https://github.com/luizevans/luizevans/blob/master/banner.png">
+<img width="auto" src="//github.com/luizevans/luizevans/blob/master/banner.png">
 
 
 # Luiz Evangelista
