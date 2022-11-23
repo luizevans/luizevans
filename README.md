@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Prevejo e Identifico a raiz do problema, analisando o comportamento dos Dados.
-Sou um FullStack Developer :computer:
+Sou um Cientista de Dados :computer:
 
  :rocket:  &nbsp; Atualmente em constante evolução na **área da Ciência de Dados**
  <br/> :computer: &nbsp; Minha stack: **Python, SQL, HTML, CSS 3, Pandas**
