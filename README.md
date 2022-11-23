@@ -1,4 +1,4 @@
-<img width="auto" src="//github.com/carlosfab/template_portfolio/blob/master/banner.png">
+<img width="auto" src="//raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png">
 
 
 # Luiz Evangelista
